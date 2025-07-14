@@ -58,7 +58,7 @@ deliveries.groupby('batsman')['batsman_runs'].sum()
 - Chinmoy Jyoti Kashyap
 - Kalyan Baishya
 - Rohan Kuli
-Submitted to: IDEAS – Institute of Data Engineering, Analytics and Science Foundation, ISI Kolkata
+- Submitted to: IDEAS – Institute of Data Engineering, Analytics and Science Foundation, ISI Kolkata
 
 <p align="center">
   <img src="logo.png" alt="IPL Auction Analysis Logo" width="300"/>
